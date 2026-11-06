@@ -1,7 +1,7 @@
 # Dark energy accumulation model vs DESI DR2
 
 Code and manuscript for the paper:
-
+**"Accumulation Dark Energy Model: Testing the DESI Anomaly, Perturbation Stability, and Limits of Applicability"**
 **"Модель накопления тёмной энергии: проверка на аномалию DESI, устойчивость возмущений и границы применимости"**
 
 Author: Evgeny V. Chernoknizhny (independent researcher)
