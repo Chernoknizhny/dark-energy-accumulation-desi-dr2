@@ -33,9 +33,8 @@ Structural ceiling: w ≤ −1 + λ₀/3 ≈ −0.97 (thawing zone unreachable a
 ## Repository contents
 
 - `pipeline_desi_dr2.py` — main pipeline: BAO fits, CMB prior, profile, figures.
-- `make_figures.py` — builds `profile_kappa.png` and `wz_curves.png`.
 - `desi_bao_all_gaussian_bao_ALL_GCcomb_mean.txt`, `..._cov.txt` — official DESI DR2 BAO data (13 quantities, 7 redshifts).
-- `Модель_накопления.tex` — LaTeX source of the manuscript.
+- `Модель накопления тёмной энергии.tex` — LaTeX source of the manuscript.
 - `profile_kappa.png`, `wz_curves.png` — figures.
 
 ## How to run
