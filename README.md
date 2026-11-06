@@ -35,6 +35,7 @@ Structural ceiling: w ≤ −1 + λ₀/3 ≈ −0.97 (thawing zone unreachable a
 - `pipeline_desi_dr2.py` — main pipeline: BAO fits, CMB prior, profile, figures.
 - `desi_bao_all_gaussian_bao_ALL_GCcomb_mean.txt`, `..._cov.txt` — official DESI DR2 BAO data (13 quantities, 7 redshifts).
 - `Модель накопления тёмной энергии.tex` — LaTeX source of the manuscript.
+- `Accumulation Dark Energy Model.pdf` - pdf file.
 - `profile_kappa.png`, `wz_curves.png` — figures.
 
 ## How to run
