@@ -1,6 +1,7 @@
 # Dark energy accumulation model vs DESI DR2
 
 Code and manuscript for the paper:
+
 **"Accumulation Dark Energy Model: Testing the DESI Anomaly, Perturbation Stability, and Limits of Applicability"**
 
 
