@@ -41,7 +41,7 @@ Structural ceiling: w ≤ −1 + λ₀/3 ≈ −0.97 (thawing zone unreachable a
 
     pip install numpy scipy matplotlib
     python pipeline_desi_dr2.py
-    python make_figures.py
+    
 
 Requires the two DESI BAO files in the same directory.
 
